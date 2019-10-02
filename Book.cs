@@ -2,7 +2,7 @@
 
 namespace AssignmentOneUnitTesting
 {
-    public class Class1
+    public class Book
     {
     }
 }
